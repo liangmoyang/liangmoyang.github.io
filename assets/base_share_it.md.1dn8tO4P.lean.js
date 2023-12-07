@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as r,R as t}from"./chunks/framework.LBXiIpgL.js";const m=JSON.parse('{"title":"技术分享","description":"","frontmatter":{},"headers":[],"relativePath":"base/share_it.md","filePath":"base/share_it.md"}'),o={name:"base/share_it.md"},i=t("",4),l=[i];function s(n,_,c,h,d,p){return a(),r("div",null,l)}const u=e(o,[["render",s]]);export{m as __pageData,u as default};
